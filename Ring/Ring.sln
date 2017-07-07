@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RingCms.Core", "RingCms.Core\RingCms.Core.csproj", "{BB75EA68-2703-42D6-BF79-68B3481C82D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RingCms.Web", "RingCms.Web\RingCms.Web.csproj", "{2B93FED4-9DEB-4B98-83CB-19118C135FE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RingCms.DataLibrary", "RingCms.DataLibrary\RingCms.DataLibrary.csproj", "{C42EF7C0-273F-4E01-9C93-41E8B6047480}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB75EA68-2703-42D6-BF79-68B3481C82D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB75EA68-2703-42D6-BF79-68B3481C82D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB75EA68-2703-42D6-BF79-68B3481C82D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB75EA68-2703-42D6-BF79-68B3481C82D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B93FED4-9DEB-4B98-83CB-19118C135FE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B93FED4-9DEB-4B98-83CB-19118C135FE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B93FED4-9DEB-4B98-83CB-19118C135FE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B93FED4-9DEB-4B98-83CB-19118C135FE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C42EF7C0-273F-4E01-9C93-41E8B6047480}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C42EF7C0-273F-4E01-9C93-41E8B6047480}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C42EF7C0-273F-4E01-9C93-41E8B6047480}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C42EF7C0-273F-4E01-9C93-41E8B6047480}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
